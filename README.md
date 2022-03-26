@@ -10,8 +10,8 @@ This is a command-line application that runs with Node.js that dynamically gener
   # Table of Content)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Github](#Username)
-  - [Profile](#Profile)
+  - [Github Repository](#websites)
+
   
 
 ## Installation 
