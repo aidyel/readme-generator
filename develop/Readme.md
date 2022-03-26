@@ -1,12 +1,12 @@
 
 
-  # ReadMe genetato
+  # readme genetator
   [![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer)
 
 
 
 ## Description:
-Here's where you'll provide a descirption of your project
+here you'll provide a description of your project
 
 
   # Table of Content
@@ -26,23 +26,23 @@ Here's where you'll provide a descirption of your project
   
     
   ## Installation:
-    Steps require to install project and how to get the development running
+    Please tell us how to instal your project
 
      
   ## Usage:
-    here user will provide information on how the application work
+    you'll provide information on how this application works
 
 
   ## Contribution:
-     tell us who contributed in your project
+     use will tell us who contributed to the project
 
     
   ## Test:
-    Test for application and how to run it
+    here user will provide information on how they tested their project
   
 
   ## Email:
-    aidayeli15@mail.com
+    aidayeli15@gmail.com
   
 
 
